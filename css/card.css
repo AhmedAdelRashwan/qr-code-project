@@ -1,0 +1,8 @@
+@media screen and (min-width:1440){}
+@media screen and (max-width:375){}
+
+.main{background-color:hsl(212, 45%, 89%);width: 100%;padding-top: 3%;}
+.card{width: 27%;height: 105%;text-align: center;margin-left: 35%;bottom: 20%;border: 2px solid blue;
+    border-radius: 25%;font-weight: 700;}
+.cardimg{width: 95%;padding-left: 5%;padding-top: 5%;}
+.parg{font-size: 15px;font-weight: 400;}
